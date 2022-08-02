@@ -1,8 +1,8 @@
 # Nature APIを叩くサンプル
 
-個人用メモ、別にPrivateにする必要も無いのでPublicで管理します。
-詳細は↓参照
-https://developer.nature.global/
+個人用メモ、別にPrivateにする必要も無いのでPublicで管理します。  
+詳細は↓参照  
+https://developer.nature.global/  
 
 ## 更新履歴
 
